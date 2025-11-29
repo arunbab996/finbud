@@ -1,0 +1,9 @@
+streamlit
+pandas==2.0.3
+pdfplumber
+python-dateutil
+regex
+matplotlib
+seaborn
+squarify
+openai
